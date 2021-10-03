@@ -1,0 +1,1 @@
+print("Comp100 is fun!!")
